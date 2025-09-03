@@ -1,6 +1,8 @@
 # Echo-Vids
 Given a recording of audio, our application will recommend timestamped YouTube videos that sound similar. Echo-Vids is an audio search engine that can be adapted and scaled for a variety of platforms.
 
+[DevPost Link](https://devpost.com/software/echo-vids)
+
 [DEMO (may be down)
 ](https://SamVanderlinda.github.io)
 
